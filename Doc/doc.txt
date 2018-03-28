@@ -1,0 +1,5 @@
+In ordrer to run the program run these commands:
+
+cd HelloWorldProject/Source Code
+python Main.py
+
